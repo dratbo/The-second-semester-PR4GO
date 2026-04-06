@@ -49,13 +49,29 @@
 
 Сделайте несколько запросов:
 
-<img width="974" height="612" alt="image" src="https://github.com/user-attachments/assets/f23074cb-aaa7-4b17-9caf-952666099864" />
+<table cellpadding="10">
+  <tr>
+    <td><img width="974" height="612" alt="image" src="https://github.com/user-attachments/assets/f23074cb-aaa7-4b17-9caf-952666099864" /></td>
+  </tr>
+</table>
 
-<img width="974" height="632" alt="image" src="https://github.com/user-attachments/assets/705df876-818f-487c-8f26-165f80092cbe" />
+<table cellpadding="10">
+  <tr>
+    <td><img width="974" height="632" alt="image" src="https://github.com/user-attachments/assets/705df876-818f-487c-8f26-165f80092cbe" /></td>
+  </tr>
+</table>
 
-<img width="974" height="622" alt="image" src="https://github.com/user-attachments/assets/30209866-9a8d-4299-8427-aa4e8dd4e18b" />
+<table cellpadding="10">
+  <tr>
+    <td><img width="974" height="622" alt="image" src="https://github.com/user-attachments/assets/30209866-9a8d-4299-8427-aa4e8dd4e18b" /></td>
+  </tr>
+</table>
 
-<img width="974" height="610" alt="image" src="https://github.com/user-attachments/assets/c2042a2a-3efd-42eb-b1d1-e674cd0d193e" />
+<table cellpadding="10">
+  <tr>
+    <td><img width="974" height="610" alt="image" src="https://github.com/user-attachments/assets/c2042a2a-3efd-42eb-b1d1-e674cd0d193e" /></td>
+  </tr>
+</table>
 
 Затем снова откройте `/metrics` и найдите строки, начинающиеся с:
 - app_http_requests_total
