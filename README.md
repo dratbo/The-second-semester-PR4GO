@@ -73,6 +73,10 @@
   </tr>
 </table>
 
+<tr>
+    <td><img width="974" height="610" alt="image" src="https://github.com/user-attachments/assets/c2042a2a-3efd-42eb-b1d1-e674cd0d193e" /></td>
+  </tr>
+  
 Затем снова откройте `/metrics` и найдите строки, начинающиеся с:
 - app_http_requests_total
 - app_http_errors_total
