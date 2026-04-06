@@ -39,8 +39,11 @@
 `go run ./cmd/server`
 Откройте в браузере:
 `http://localhost:8080/metrics`
-
-<img width="974" height="514" alt="image" src="https://github.com/user-attachments/assets/053822a5-768e-434c-932e-6add1ab45a2b" />
+<table cellpadding="10">
+  <tr>
+    <td><img width="974" height="514" alt="image" src="https://github.com/user-attachments/assets/053822a5-768e-434c-932e-6add1ab45a2b" /></td>
+  </tr>
+</table>
 
 ### 3. Проверка появления метрик
 
